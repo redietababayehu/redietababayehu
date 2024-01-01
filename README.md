@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👋 Hi there!
 
-<!--
-**redietababayehu/redietababayehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a freshman Computer Science student at Trinity Western University, currently exploring my interests in technology. Passionate about creating impactful solutions, I'm on the lookout for internship opportunities to grow and contribute.
 
-Here are some ideas to get you started:
+#### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Stock Notifier**: A Python application that alerts users via SMS about significant percentage changes in preselected stocks, along with the latest news headlines. This project integrates three APIs:
+- **Polygon**: For retrieving stock closing prices.
+- **News API**: To collect recent headlines on specified companies.
+- **Twilio**: For sending SMS notifications.
+
+I'm continuously expanding my skillset and currently delving into backend technologies using Django with Python and also working with Java and spring boot, aiming to become proficient in full-stack engineering.
+
+#### 💼 Skills
+- **Languages**: Python
+- **Learning**: Django, Java
+
+#### 📫 How to reach me:
+- Email: rediet.ababayehu@mytwu.ca
+
+#### 💡 Quick Links
+[![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rediet-ababayehu/)
+
+
