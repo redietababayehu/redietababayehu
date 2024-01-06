@@ -1,24 +1,43 @@
-### 👋 Hi there!
+### 👋 Hello, I'm Rediet Ababayehu!
 
-Welcome to my GitHub! I'm a freshman Computer Science student at Trinity Western University, currently exploring my interests in technology. Passionate about creating impactful solutions, I'm on the lookout for internship opportunities to grow and contribute.
+🌐 Website: [redietababayehu.github.io](https://redietababayehu.github.io)
+📧 Email: [rediet.ababayehu@mytwu.ca](mailto:rediet.ababayehu@mytwu.ca)
+📞 Phone: 778-887-6392
+🔗 [LinkedIn](https://www.linkedin.com/in/rediet-ababayehu) | [GitHub](https://github.com/redietababayehu)
+📍 Langley, BC, Canada
 
-#### 🚀 Projects
+#### 🎓 Education
+- **Trinity Western University, Langley, BC, Canada**
+- **Bachelor of Science in Computer Science**, Graduating April 2027
+- **GPA:** 4.13 / 4.3
 
-- **Stock Notifier**: A Python application that alerts users via SMS about significant percentage changes in preselected stocks, along with the latest news headlines. This project integrates three APIs:
-- **Polygon**: For retrieving stock closing prices.
-- **News API**: To collect recent headlines on specified companies.
-- **Twilio**: For sending SMS notifications.
+**Academic Honors and Awards:**
+- President’s Scholarship
+- Dean’s List
 
-I'm continuously expanding my skillset and currently delving into backend technologies using Django with Python and also working with Java and spring boot, aiming to become proficient in full-stack engineering.
+**Relevant Courses:**
+- Introduction to Computer Science I & II (Python, Java)
+- Discrete Mathematics
+- Calculus I & II
 
 #### 💼 Skills
-- **Languages**: Python
-- **Learning**: Django, Java
+- **Programming Languages and Libraries:** Python, Pandas, matplotlib, HTML, CSS, JavaScript
+
+#### 🚀 Selected Technical Personal Projects
+
+1. **Spotify Time Machine** ([Source code](#) | [Deployed App](#)) - Jan 2024
+- _Technologies Used_: Python, BeautifulSoup, Spotify API
+- Developed an app to create playlists with the top 100 songs from any given year.
+- Used BeautifulSoup to scrape data and manipulate date parameters on the Billboard website.
+- Implemented OAuth authentication for secure Spotify API interactions.
+
+2. **Stock News Notifier** ([Source code](#) | [Deployed App](#)) - Dec 2023
+- _Technologies Used_: Python, Polygon API, Twilio API, NewsAPI
+- Built an SMS notification system for stock price changes with relevant news headlines.
+- Integrated Polygon, News API, and Twilio for a seamless user experience.
+- Ensured application security by using environment variables for API keys.
 
 #### 📫 How to reach me:
-- Email: rediet.ababayehu@mytwu.ca
-
-#### 💡 Quick Links
-[![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rediet-ababayehu/)
-
-
+- **Email:** [rediet.ababayehu@mytwu.ca](mailto:rediet.ababayehu@mytwu.ca)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rediet-ababayehu)
+- **GitHub:** [GitHub Profile](https://github.com/redietababayehu)
