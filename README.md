@@ -1,8 +1,8 @@
 ### 👋 Hello, I'm Rediet Ababayehu!
 
-🌐 Website: [redietababayehu.github.io](https://redietababayehu.github.io)
-📧 Email: [rediet.ababayehu@mytwu.ca](mailto:rediet.ababayehu@mytwu.ca)
-📞 Phone: 778-887-6392
+🌐 Website: [redietababayehu.github.io](https://redietababayehu.github.io) 
+📧 Email: [rediet.ababayehu@mytwu.ca](mailto:rediet.ababayehu@mytwu.ca) 
+📞 Phone: 778-887-6392 
 🔗 [LinkedIn](https://www.linkedin.com/in/rediet-ababayehu) | [GitHub](https://github.com/redietababayehu)
 📍 Langley, BC, Canada
 
@@ -10,15 +10,6 @@
 - **Trinity Western University, Langley, BC, Canada**
 - **Bachelor of Science in Computer Science**, Graduating April 2027
 - **GPA:** 4.13 / 4.3
-
-**Academic Honors and Awards:**
-- President’s Scholarship
-- Dean’s List
-
-**Relevant Courses:**
-- Introduction to Computer Science I & II (Python, Java)
-- Discrete Mathematics
-- Calculus I & II
 
 #### 💼 Skills
 - **Programming Languages and Libraries:** Python, Pandas, matplotlib, HTML, CSS, JavaScript
