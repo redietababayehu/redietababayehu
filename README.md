@@ -1,4 +1,4 @@
-# 👋 Rediet Ababayehu - CS Student Software Engineer
+# 👋 Rediet Ababayehu - CS Student 
 
 Hello! I'm Rediet, a Computer Science student at Trinity Western University. My journey into tech began with a fascination for human-computer interaction, sparked by a UX design course in 9th grade. This experience led me to explore the world of software engineering, where I'm continually inspired to build and understand both frontend and backend systems.
 
