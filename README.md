@@ -26,15 +26,15 @@ Currently enhancing my Java skills and exploring both frontend and backend techn
 #### 💼 Skills
 - **Programming Languages and Libraries:** Python, Pandas, matplotlib, HTML, CSS, JavaScript
 
-## 🚀 Projects: 
+## 🚀 Other Projects: 
 
-1. **Spotify Time Machine** ([Source code](#) | [Deployed App](#)) - Jan 2024
+1. **Spotify Time Machine** 
 - _Technologies Used_: Python, BeautifulSoup, Spotify API
 - Developed an app to create playlists with the top 100 songs from any given year.
 - Used BeautifulSoup to scrape data and manipulate date parameters on the Billboard website.
 - Implemented OAuth authentication for secure Spotify API interactions.
 
-2. **Stock News Notifier** ([Source code](#) | [Deployed App](#)) - Dec 2023
+2. **Stock News Notifier** 
 - _Technologies Used_: Python, Polygon API, Twilio API, NewsAPI
 - Built an SMS notification system for stock price changes with relevant news headlines.
 - Integrated Polygon, News API, and Twilio for a seamless user experience.
